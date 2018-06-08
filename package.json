@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/udacity/responsive-images.git"
+    "url": "https://github.com/jelockro/Project-Part-1-Start.git"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
